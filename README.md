@@ -20,7 +20,7 @@ documentation. I have found this to be a hugely valuable tool for distributed te
 ### Code Review
 
 I conducted a self-review prior to submission as a quality check and to identify areas for
-improvement. You can see it here `LINK TO CODE REVIEW`
+improvement. You can see it here: [Pull request #1: feat: completed exercise after 8 hour time limit](https://github.com/arnoldsandoval/frontend-take-home/pull/1#pullrequestreview-3103473970)
 
 ## Getting Started
 
