@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "api": "tsx src/api.ts",
+    "start": "tsx src/api.ts",
+    "dev": "tsx src/api.ts",
     "test": "tsx src/api.test.ts",
     "lint": "eslint ."
   },
