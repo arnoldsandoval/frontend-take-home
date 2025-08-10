@@ -11,11 +11,14 @@ This is my implementation of the WorkOS Frontend Take-Home Assignment, completed
 
 I limited my LLM usage (Claude Code and Cursor) to autocomplete and rubber ducking. While AI has become integral to my workflow in the past few years, I wanted to demonstrate my independent problem-solving and architectural thinking rather than delegating core implementation to an LLM.
 
-### Loom Walkthrough
+### Loom Experience Walkthrough
 
 I've recorded a visual walkthrough highlighting key features and rough edges that may not be
 obvious from code alone. This reflects how I approach async collaboration through video
-documentation. I have found this to be a hugely valuable tool for distributed team collab as well as for reference in the future. `LINK TO LOOM WALK THROUGH`
+documentation. I have found this to be a hugely valuable tool for distributed team collab as well as for reference in the future.
+
+- [WorkOS Front End Take-Home (Experience Walkthrough, Part 1)](https://www.loom.com/share/937d2f0809d24eedb7338db90b70f503)
+- [WorkOS Front End Take-Home (Experience Walkthrough, Part 2)](https://www.loom.com/share/7ecbdbc980dc496aa5d5a132cd11171e)
 
 ### Code Review
 
